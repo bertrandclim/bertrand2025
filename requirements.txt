@@ -1,0 +1,6 @@
+matplotlib
+pandas
+xarray
+scipy
+statsmodels
+metpy
