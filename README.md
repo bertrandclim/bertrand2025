@@ -12,9 +12,9 @@ The following `.ipynb` files generate figures from the paper based on the netCDF
 See main text of paper for descriptions of data sources, methodology, and figure descriptions.
 
 # setup
-`git clone https://github.com/bertrandclim/bertrand2025.git`
-`cd bertrand2025`
-`pip install requirements.txt`
-`jupyter-lab`
+1. `git clone https://github.com/bertrandclim/bertrand2025.git`
+2. `cd bertrand2025`
+3. `pip install requirements.txt`
+4. `jupyter-lab`
 
 Then launch one of the notebooks and click `kernel -> run all cells`.
