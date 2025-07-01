@@ -1,4 +1,5 @@
 # bertrand et al. 2025
+[![DOI](https://zenodo.org/badge/944806702.svg)](https://doi.org/10.5281/zenodo.15786066)
 Figure plotting code and data for the paper "Increasing wintertime cloud opacity increases surface longwave radiation at a long-term Arctic observatory". 
 
 The following `.ipynb` files generate figures from the paper based on the netCDF files stored in this repository:
