@@ -14,7 +14,7 @@ See main text of paper for descriptions of data sources, methodology, and figure
 # setup
 1. `git clone https://github.com/bertrandclim/bertrand2025.git`
 2. `cd bertrand2025`
-3. `pip install requirements.txt`
+3. `pip install requirements.txt` (should take <15 minutes on a typical computer)
 4. `jupyter-lab`
 
-Then launch one of the notebooks and click `kernel -> run all cells`.
+Then launch one of the notebooks and click `kernel -> run all cells` (should take <5 minutes on a typical computer).
