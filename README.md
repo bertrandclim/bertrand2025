@@ -18,3 +18,5 @@ See main text of paper for descriptions of data sources, methodology, and figure
 4. `jupyter-lab`
 
 Then launch one of the notebooks and click `kernel -> run all cells` (should take <5 minutes on a typical computer).
+
+Tested with `matplotlib==3.8.0`, `xarray==2023.9.0`, `pandas==2.1.1`, `numpy==1.24.4`, `statsmodels==0.14.0`, `metpy==1.5.1`, `scipy==1.11.3`.
